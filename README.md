@@ -5,9 +5,13 @@ This repository contains two different codes for analyzing trips. Each code serv
 ## Fast Code - run.py
 The run.py code is designed for quick analysis of a large number of trips. By executing this code, you will be able to see the output with a significant number of trips. This code prioritizes speed and efficiency, making it ideal for scenarios where quick results are required.
 To run the fast code and view the output, follow these steps:
+
+
 '''
 Python run.py
 '''
+
+
 ## Simple Code - bfs.py
 The bfs.py code is a simpler implementation that provides a more straightforward approach to trip analysis. Although this code may run slower compared to the fast code, it offers simplicity and ease of understanding. It is suitable for scenarios where a quick execution time is not the primary concern.
 To run the simple code and view the output, follow these steps:
